@@ -10,7 +10,7 @@
   "license": "MIT-0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jchandler187/hoard.git"
+    "url": "git+https://github.com/lowwattlabs/hoard.git"
   },
   "keywords": [
     "agent-memory",
