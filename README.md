@@ -304,10 +304,10 @@ Free. If it saves your agent from amnesia, [buy me a coffee](https://buymeacoffe
 MIT-0 — Low Watt Labs 🪙
 ## Also by Low Watt Labs
 
-- **⚡ Frisk** — Catch leaked credentials and supply-chain threats in ClawHub skills before you install. [GitHub](https://github.com/lowwattlabs/frisk) · [npm](https://npmjs.com/package/@lowwattlabs/frisk) · [ClawHub](https://clawhub.ai/lowwattlabs/frisk)
-- **⚡ LFIT** — Local HD image generation on your hardware. Free, private, zero API keys. [GitHub](https://github.com/lowwattlabs/lfit) · [npm](https://npmjs.com/package/@lowwattlabs/lfit) · [ClawHub](https://clawhub.ai/lowwattlabs/lfit)
+- **⚡ Frisk** — Catch leaked credentials and supply-chain threats in ClawHub skills before you install. [GitHub](https://github.com/lowwattlabs/frisk) · [npm](https://npmjs.com/package/@lowwattlabs/frisk) · [ClawHub](https://clawhub.ai/lowwattlabs/frisk-audit)
+- **⚡ LFIT** — Local HD image generation on your hardware. Free, private, zero API keys. [GitHub](https://github.com/lowwattlabs/lfit) · [npm](https://npmjs.com/package/@lowwattlabs/lfit) · [ClawHub](https://clawhub.ai/lowwattlabs/vulkan-lfit)
 
 ## Related Projects
 
-- **⚡ Frisk** — Catch leaked credentials and supply-chain threats in ClawHub skills before you install. [GitHub](https://github.com/lowwattlabs/frisk) · [npm](https://npmjs.com/package/@lowwattlabs/frisk) · [ClawHub](https://clawhub.ai/lowwattlabs/frisk)
-- **⚡ LFIT** — Local HD image generation on your hardware. Free, private, zero API keys. [GitHub](https://github.com/lowwattlabs/lfit) · [npm](https://npmjs.com/package/@lowwattlabs/lfit) · [ClawHub](https://clawhub.ai/lowwattlabs/lfit)
+- **⚡ Frisk** — Catch leaked credentials and supply-chain threats in ClawHub skills before you install. [GitHub](https://github.com/lowwattlabs/frisk) · [npm](https://npmjs.com/package/@lowwattlabs/frisk) · [ClawHub](https://clawhub.ai/lowwattlabs/frisk-audit)
+- **⚡ LFIT** — Local HD image generation on your hardware. Free, private, zero API keys. [GitHub](https://github.com/lowwattlabs/lfit) · [npm](https://npmjs.com/package/@lowwattlabs/lfit) · [ClawHub](https://clawhub.ai/lowwattlabs/vulkan-lfit)
